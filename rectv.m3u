@@ -3,6 +3,38 @@
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.arectv34.sbs/live/aspor.m3u8
+#EXTINF:-1 tvg-id="149" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" tvg-name="Bein Sports 1" group-title="Spor",Bein Sports 1 [FHD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://lively1.cf4-85e.workers.dev/static/bs11.m3u8
+#EXTINF:-1 tvg-id="149" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" tvg-name="Bein Sports 1" group-title="Spor",Bein Sports 1 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://lively1.cf4-85e.workers.dev/static/bs1.m3u8
+#EXTINF:-1 tvg-id="148" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" tvg-name="Bein Sports 2" group-title="Spor",Bein Sports 2 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://lively1.cf4-85e.workers.dev/static/bs2.m3u8
+#EXTINF:-1 tvg-id="147" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" tvg-name="Bein Sports 3" group-title="Spor",Bein Sports 3 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://lively1.cf4-85e.workers.dev/static/bs3.m3u8
+#EXTINF:-1 tvg-id="146" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" tvg-name="Bein Sports 4" group-title="Spor",Bein Sports 4 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://lively1.cf4-85e.workers.dev/static/bs4.m3u8
+#EXTINF:-1 tvg-id="145" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" tvg-name="Bein Sports 5" group-title="Spor",Bein Sports 5 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://lively1.cf4-85e.workers.dev/static/bs5.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" tvg-name="Bein Sports Max 1" group-title="Spor",Bein Sports Max 1
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://tv.arectv34.sbs/live/bm1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png" tvg-name="Bein Sports Max 2" group-title="Spor",Bein Sports Max 2
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://tv.arectv34.sbs/live/bm2.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" tvg-name="Euro Sport 1" group-title="Spor",Euro Sport 1 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
