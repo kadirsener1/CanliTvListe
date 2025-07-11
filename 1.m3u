@@ -196,6 +196,7 @@ https://alpha.cf-worker-d1c30c92978e.workers.dev/live/sbeinsportsmax-2/playlist.
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.arectv34.sbs/live/bm2.m3u8
+
 #EXTINF:-1 tvg-name="S Sport 1 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="S Sport" tvg-logo="https://i.imgur.com/0LMUDsc.png" group-title="Spor",S Sport
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDY6MTg6NTAgUE0maGFzaF92YWx1ZT15QUtYVzBTMWpKbFc1Z1E0V1U4YjVBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
@@ -208,6 +209,9 @@ https://r0.4928d54d950ee70q17.lat/yayinss.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://monotv523.com/
 https://lll.istekbet3.tv/yayinss.m3u8
+
+#EXTINF:-1  tvg-name="S SPORT 1" tvg-logo="https://i.imgur.com/0LMUDsc.png" group-title="Spor",S SPORT|VAR
+https://live-cdn-65984.varplaycdn.cfd/607/index.m3u8
 
 #EXTINF:-1  tvg-name="S SPORT 1" tvg-logo="https://i.imgur.com/0LMUDsc.png" group-title="Spor",S SPORT| E
 https://217.30.11.74/e/3030.m3u8
@@ -242,6 +246,8 @@ https://r0.4928d54d950ee70q17.lat/yayinss2.m3u8
 #EXTVLCOPT:http-referrer=https://monotv523.com/
 https://lll.istekbet3.tv/yayinss2.m3u8
 
+#EXTINF:-1  tvg-name="S SPORT 2" tvg-logo="https://i.imgur.com/HyfCOif.png" group-title="Spor",S SPORT2|VAR
+https://live-cdn-65984.varplaycdn.cfd/608/index.m3u8
 
 #EXTINF:-1  tvg-name="S SPORT 2" tvg-logo="https://i.imgur.com/HyfCOif.png" group-title="Spor",S SPORT2| E
 https://217.30.11.74/e/3031.m3u8
@@ -274,7 +280,8 @@ https://r0.4928d54d950ee70q17.lat/yayinsmarts.m3u8
 #EXTVLCOPT:http-referrer=https://monotv523.com/
 https://lll.istekbet3.tv/yayinsmarts.m3u8   
 
-
+#EXTINF:-1  tvg-name="Spor Smart 1" tvg-logo="https://i.imgur.com/dcUhTEp.png" group-title="Spor",Spor Smart|VAR
+https://live-cdn-65984.varplaycdn.cfd/610/index.m3u8
 
 #EXTINF:-1  tvg-name="Spor Smart 1" tvg-logo="https://i.imgur.com/dcUhTEp.png" group-title="Spor",Spor Smart| E
 https://217.30.11.74/e/155.m3u8
