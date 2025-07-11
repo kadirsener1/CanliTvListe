@@ -481,6 +481,8 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2193/index&extension=m3u8
 
@@ -533,6 +535,10 @@ https://lively1.cf4-86.workers.dev/list/yayinnbatv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://hakunamatata5.org
 https://hakunamatata5.org:8088/hls/sky-f1.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sdazn1" tvg-logo="" group-title="Spor",DAZN 1|CF
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://alpha.cf-worker-d1c30c92978e.workers.dev/live/sdazn1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WORLD BİLLİARDS" tvg-logo="" group-title="Spor",WORLD BİLLİARDS
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
