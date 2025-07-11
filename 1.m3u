@@ -281,7 +281,7 @@ https://r0.4928d54d950ee70q17.lat/yayinsmarts.m3u8
 https://lll.istekbet3.tv/yayinsmarts.m3u8   
 
 #EXTINF:-1  tvg-name="Spor Smart 1" tvg-logo="https://i.imgur.com/dcUhTEp.png" group-title="Spor",Spor Smart|VAR
-https://live-cdn-65984.varplaycdn.cfd/610/index.m3u8
+https://live-cdn-65984.varplaycdn.cfd/609/index.m3u8
 
 #EXTINF:-1  tvg-name="Spor Smart 1" tvg-logo="https://i.imgur.com/dcUhTEp.png" group-title="Spor",Spor Smart| E
 https://217.30.11.74/e/155.m3u8
@@ -300,7 +300,7 @@ https://alpha.cf-worker-d1c30c92978e.workers.dev/live/ssmartspor/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="139" tvg-logo="https://i.imgur.com/dcUhTEp.png" tvg-name="Spor Smart 1" group-title="Spor",Spor Smart 1 [REC]
+#EXTINF:-1 tvg-id="139" tvg-logo="https://i.imgur.com/dcUhTEp.png" tvg-name="Spor Smart 1" group-title="Spor",Spor Smart [REC]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.arectv34.sbs/live/smart1.m3u8
@@ -314,6 +314,8 @@ https://r0.4928d54d950ee70q17.lat/yayinsms2.m3u8
 #EXTVLCOPT:http-referrer=https://monotv523.com/
 https://lll.istekbet3.tv/yayinsms2.m3u8
 
+#EXTINF:-1  tvg-name="Spor Smart 2" tvg-logo="https://i.imgur.com/GACi3nS.png" group-title="Spor",Spor Smart 2|VAR
+https://live-cdn-65984.varplaycdn.cfd/610/index.m3u8
 
 #EXTINF:-1  tvg-name="Spor Smart 2" tvg-logo="https://i.imgur.com/GACi3nS.png" group-title="Spor",Spor Smart 2| E
 https://217.30.11.74/e/156.m3u8
