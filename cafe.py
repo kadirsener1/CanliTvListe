@@ -117,6 +117,8 @@ channel_ids = [
     "seurosport2",
     "sf1",
     "sdazn1",
+    "sdazn2",
+    "sufcfightpass",
     "stabiispor",
     "sssportplus1"
 ]
