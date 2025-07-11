@@ -1534,9 +1534,6 @@ http://yayin2.yayindakiler.com:4064/;
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://2.bp.blogspot.com/-R1ftW14AmMc/WaqhvMTWILI/AAAAAAAAUrM/v3KOjdV9reUZ1-V7Gbm74bl2dZAhFIE6wCLcBGAs/s1600/r.jpg"group-title="Radyo",ÖDEMİŞ RADYO REMİX
 https://radyo.yayin.com.tr:5250/playlist.mp3?/;stream.mp3
 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://oncurtvcom.teimg.com/oncurtv-com/images/banner/oncu_logo.png"group-title="Radyo",ÖNCÜ RADYO
-https://tr2.socialsmart.tv/oncuradyo/bant1/playlist.m3u8
-
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-0KJ9_25yya0/WarT9o33gPI/AAAAAAAAUso/JnC7T6n_dageslAQYX7MjJizEqBmMLj6wCLcBGAs/s1600/o.jpg"group-title="Radyo",ÖZGÜR RADYO
 https://radyoozgur.kesintisizyayin.com:9898/;*.nsv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-s7RyZjikwHA/WarbqWest8I/AAAAAAAAUtY/NZ5IGE6KnzcaqJYG9YhfiE49I3N5Iy__gCLcBGAs/s1600/05.jpg"group-title="Radyo",PAL FM
