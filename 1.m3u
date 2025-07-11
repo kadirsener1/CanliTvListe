@@ -9,8 +9,8 @@ https://r0.4928d54d950ee70q17.lat/yayinzirve.m3u8
 #EXTVLCOPT:http-referrer=https://monotv523.com/
 https://lll.istekbet3.tv/yayinzirve.m3u8
 
-#EXTINF:-1,tvg-name="TRT" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/M4E5tMg.png" group-title="Spor",Bein Sports 1
-https://live-cdn-65984.varplaycdn.cfd/700/index.m3u8
+#EXTINF:-1,tvg-name="TRT" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/M4E5tMg.png" group-title="Spor",Bein Sports 1|VAR
+https://live-cdn-65984.varplaycdn.cfd/601/index.m3u8
 
 #EXTINF:-1,tvg-name="TRT" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/M4E5tMg.png" group-title="Spor",Bein Sports 1|İP
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
@@ -46,8 +46,8 @@ https://r0.4928d54d950ee70q17.lat/yayinb2.m3u8
 https://lll.istekbet3.tv/yayinb2.m3u8
 
 
-#EXTINF:-1,tvg-name="TRT" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/id4WBnX.png" group-title="Spor",Bein Sports 2-REAL
-http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-2-turkey/159
+#EXTINF:-1,tvg-name="TRT" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/id4WBnX.png" group-title="Spor",Bein Sports 2|VAR
+https://live-cdn-65984.varplaycdn.cfd/602/index.m3u8
 
 #EXTINF:-1,tvg-name="TRT" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/id4WBnX.png" group-title="Spor",Bein Sports 2|İP
 http://95.174.71.114:80/TR-BEINSPORT2/index.m3u8
@@ -78,6 +78,8 @@ https://r0.4928d54d950ee70q17.lat/yayinb3.m3u8
 #EXTVLCOPT:http-referrer=https://monotv523.com/
 https://lll.istekbet3.tv/yayinb3.m3u8
 
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/b9niIDX.png" group-title="Spor",Bein Sports 3|VAR
+https://live-cdn-65984.varplaycdn.cfd/603/index.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/b9niIDX.png" group-title="Spor",Bein Sports 3|İP
 http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
@@ -108,6 +110,8 @@ https://r0.4928d54d950ee70q17.lat/yayinb4.m3u8
 #EXTVLCOPT:http-referrer=https://monotv523.com/
 https://lll.istekbet3.tv/yayinb4.m3u8
 
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/2QsXsk3.png" group-title="Spor",Bein Sports 4|VAR
+https://live-cdn-65984.varplaycdn.cfd/603/index.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="" tvg-logo="https://i.imgur.com/2QsXsk3.png" group-title="Spor",Bein Sports 4|İP
 http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
