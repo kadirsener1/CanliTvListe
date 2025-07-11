@@ -119,6 +119,8 @@ channel_ids = [
     "sdazn1",
     "sdazn2",
     "sufcfightpass",
+    "smotorsporttv",
+    "smotorvisiontv",
     "stabiispor",
     "sssportplus1"
 ]
