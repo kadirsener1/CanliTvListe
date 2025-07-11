@@ -937,7 +937,7 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_Cine1" tvg-logo="https://oncurtvcom.teimg.com/oncurtv-com/images/banner/oncu_logo.png" group-title="Sinema",ÖNCÜ RTV
-http://45.150.174.26:1935/oncurtv/bant1/chunks.m3u8
+https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 
 
 
