@@ -606,42 +606,12 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 # ? https://j0.4928d54d950ee70q10.click/yayinex6.m3u8
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [REC]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi6.m3u8
-#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [REC]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi6.m3u8
-#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [REC]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi6.m3u8
-#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [REC]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi6.m3u8
-#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [REC]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi6.m3u8
-#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [REC]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi6.m3u8
-#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [REC]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi6.m3u8
+
 #EXTINF:-1 tvg-id="160" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" tvg-name="S Sport Plus" group-title="Spor",S Sport Plus [REC]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/pl2.m3u8
-#EXTINF:-1 tvg-id="160" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" tvg-name="S Sport Plus" group-title="Spor",S Sport Plus [REC]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/pl2.m3u8
+https://tv.arectv34.sbs/live/pl1.m3u8
+
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
