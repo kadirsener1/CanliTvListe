@@ -514,13 +514,8 @@ http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİT TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1084/brand.gif?itok=ihptOuEm" group-title="Spor",FİT YAŞA TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/0.m3u8
 
-#EXTINF:-1 tvg-name="Solh Sport" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SolhSport" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/solhsports.png" group-title="Spor",Solh Sport
-https://solhtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="126" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/4c02bd56395b0a27eab964656b1bb379.jpg" tvg-name="FightBox" group-title="Spor",FightBox [REC]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/fight.m3u8
+
 #EXTINF:-1 tvg-name="Nba Tv A" tvg-language="English" tvg-country="USA" tvg-id="Nba Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png" group-title="Spor",Nba Tv 
 https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDY6MTg6NTAgUE0maGFzaF92YWx1ZT15QUtYVzBTMWpKbFc1Z1E0V1U4YjVBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
@@ -538,19 +533,31 @@ https://lll.istekbet3.tv/yayinnbatv.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://lively1.cf4-86.workers.dev/list/yayinnbatv.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SKYSPORTSF1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/375px-Sky_Sports_F1_logo_2020.svg.png" group-title="Spor",Sky Sports f1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://hakunamatata5.org
-https://hakunamatata5.org:8088/hls/sky-f1.m3u8
+
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sdazn1" tvg-logo="" group-title="Spor",DAZN 1|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
 https://alpha.cf-worker-d1c30c92978e.workers.dev/live/sdazn1/playlist.m3u8
 
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sdazn2" tvg-logo="" group-title="Spor",DAZN 2|CF
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://alpha.cf-worker-d1c30c92978e.workers.dev/live/sdazn2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SKYSPORTSF1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/375px-Sky_Sports_F1_logo_2020.svg.png" group-title="Spor",Sky Sports f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://hakunamatata5.org
+https://hakunamatata5.org:8088/hls/sky-f1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="WORLD BİLLİARDS" tvg-logo="" group-title="Spor",WORLD BİLLİARDS
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Solh Sport" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SolhSport" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/solhsports.png" group-title="Spor",Solh Sport
+https://solhtvhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="126" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/4c02bd56395b0a27eab964656b1bb379.jpg" tvg-name="FightBox" group-title="Spor",FightBox [REC]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://tv.arectv34.sbs/live/fight.m3u8
 
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor
