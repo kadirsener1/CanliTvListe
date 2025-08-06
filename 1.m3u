@@ -934,14 +934,14 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_Cine1" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="Sinema",Cine1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_Cine1" tvg-logo="https://oncurtvcom.teimg.com/oncurtv-com/images/banner/oncu_logo.png" group-title="Sinema",ÖNCÜ RTV
-https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="grand sinema" tvg-logo="" group-title="Sinema",GRAND SİNEMA
+https://gcinemahls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_CINE5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" group-title="Sinema",CINE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_CINE5" tvg-logo="https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g_400x400.jpg" group-title="Sinema",Tivi Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
