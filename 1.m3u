@@ -197,7 +197,7 @@ https://alpha.cf-worker-fc7f64bb54264.workers.dev/live/sbeinsportsmax-2/playlist
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.arectv34.sbs/live/bm2.m3u8
 #EXTINF:-1 tvg-name="S Sport 1 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="S Sport" tvg-logo="https://i.imgur.com/0LMUDsc.png" group-title="Spor",S Sport
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="S Sport 1 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORTB" tvg-logo="https://i.imgur.com/0LMUDsc.png" group-title="Spor",S Sport 1 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -233,7 +233,7 @@ https://alpha.cf-worker-fc7f64bb54264.workers.dev/live/sssport/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://1.cf5-2c8.workers.dev/static/ss11.m3u8
 #EXTINF:-1 tvg-name="S Sport 2 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="S Sport 2" tvg-logo="https://i.imgur.com/HyfCOif.png" group-title="Spor",S Sport 2
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="S Sport 2 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2B" tvg-logo="https://i.imgur.com/HyfCOif.png" group-title="Spor",S Sport 2 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -423,7 +423,7 @@ https://alpha.cf-worker-fc7f64bb54264.workers.dev/live/stivibuspor-4/playlist.m3
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/t4.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 A"  tvg-language="Turkish" tvg-country="TR" tvg-id="Eurosport 1" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="Spor",Eurosport 1
-https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Euro Sport 1 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport1A" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="Spor",Euro Sport 1 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -440,7 +440,7 @@ https://four.zirvestream4.cfd/yayineu1.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/euro1.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2 A"  tvg-language="Turkish" tvg-country="TR" tvg-id="Eurosport 1" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="Spor",Eurosport 2
-https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Euro Sport 2 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2A" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="Spor",Euro Sport 2 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -470,7 +470,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/aspor.m3u8
 #EXTINF:-1 tvg-name="beIN Sports Haber"  tvg-language="Turkish" tvg-country="TR" tvg-id="beIN Sports Haber" tvg-logo="https://img.logo-cdn.cc/beinsportshaber.png" group-title="Spor",beIN Sports Haber
-https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name=""  tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsportshaber.png" group-title="Spor",beIN Sports Haber-YT
 https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCPe9vNjHF1kEExT5kHwc7aw.m3u8
@@ -516,7 +516,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/0.
 
 
 #EXTINF:-1 tvg-name="Nba Tv A" tvg-language="English" tvg-country="USA" tvg-id="Nba Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png" group-title="Spor",Nba Tv 
-https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="NBA TV B" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATVB" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -613,13 +613,13 @@ https://1.cf5-2c8.workers.dev/static/pl3.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="kanal D" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Ulusal",Kanal D
-https://ottcdn.kablowebtv.net/live_turksat_sub3/kanald_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/kanald_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ShowTV" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Ulusal",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-name="Atv"  tvg-language="Turkish" tvg-country="TR" tvg-id="Atv" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal",Atv    
-https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
@@ -637,7 +637,7 @@ https://tv.prectv53.lol/live/atv.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-name="Now"  tvg-language="Turkish" tvg-country="TR" tvg-id="Now" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="Ulusal",Now
-https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" tvg-name="FOX TV" group-title="Ulusal",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
@@ -691,7 +691,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="CNN Türk" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" group-title="Haber",Cnn Türk
-https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="99" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" tvg-name="CNN TURK HD" group-title="Haber",CNN TURK HD [REC]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -701,7 +701,7 @@ https://tv.prectv53.lol/live/cnnturk.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="A Haber" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" group-title="Haber",A Haber
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ahaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ahaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="100" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" tvg-name="A HABER HD" group-title="Haber",A HABER HD [REC]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -732,7 +732,7 @@ https://akittv-live.ercdn.net/akittv/akittv.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Sözcü Tv" tvg-id="Sözcü Tv"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2fdd6eb0-bd9e-44ef-ad0e-7f2c4cf3a8a7.png" group-title="Haber",Szc Tv
-https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Halk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HalkTV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/516aa59e-70a2-4be3-9077-02862a052fde.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
@@ -751,7 +751,7 @@ https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ulusal Kanal" tvg-id="Ulusal Kanal"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png" group-title="Haber",Ulusal Kanal
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/cad74c9ef922f64138434a3ebb0980be.jpg" tvg-name="BENGÜTÜRK" group-title="Haber",BENGÜTÜRK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -766,7 +766,7 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 http://185.234.111.229:8000/play/a01l
 
 #EXTINF:-1 tvg-name="Cnbc-e" tvg-id="Cnbc-e"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="Haber",Cnbc-e
-https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="" tvg-name="finans" tvg-logo="https://i.imgur.com/G7uDQBv.png" group-title="Haber",FİNANS TÜRK
 https://yayin30.haber100.com/live/finansturk/chunklist_w1412138656.m3u8
@@ -813,32 +813,32 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 # * » Sinema « * #
 
 #EXTINF:-1 tvg-name="FX" tvg-id="FX"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png" group-title="Sinema",FX
-https://ottcdn.kablowebtv.net/live_turksat_sub/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Sinema Tv" tvg-id="Sinema Tv"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="Sinema",Sinema Tv
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Sinema Yerli"  tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema Yerli" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png" group-title="Sinema",Sinema Yerli
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Sinema Aile"  tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema Aile" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8283b71-81f8-4fc6-8e48-6bb8f7f49ad7.png" group-title="Sinema",Sinema Aile
-https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Sinema 1001"  tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema 1001" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8d9fbebd-cade-492d-9cb4-6522cb558794.png" group-title="Sinema",Sinema 1001
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Sinema Komedi"  tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema Komedi" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4145ea10-96ad-400d-8870-f22a075f4add.png" group-title="Sinema",Sinema Komedi
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 
 #EXTINF:-1 tvg-name="Sinema Aksiyon"  tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema Aksiyon" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png" group-title="Sinema",Sinema Aksiyon
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Epic Drama" tvg-id="Epic Drama" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" group-title="Sinema",Epic Drama
-https://ottcdn.kablowebtv.net/live_turksat_sub3/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Film Screen" tvg-id="Film Screen" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="Sinema",Film Screen
-https://ottcdn.kablowebtv.net/live_turksat_sub3/FilmScreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/FilmScreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 # ? https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="76" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png" tvg-name="BS ACTION 1" group-title="Sinema",BS ACTION 1
@@ -970,7 +970,7 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Channel"  tvg-language="Turkish" tvg-country="TR" tvg-id="Discovery Channel" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="Belgesel",Discovery Channel
-https://ottcdn.kablowebtv.net/live_turksat_sub3/discoverychannel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/discoverychannel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="79" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -981,7 +981,7 @@ https://tv.prectv53.lol/live/discovery.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/discs.m3u8
 #EXTINF:-1 tvg-name="ID"  tvg-language="Turkish" tvg-country="TR" tvg-id="ID" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="Belgesel",ID 
-https://ottcdn.kablowebtv.net/live_turksat_sub3/id_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/id_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="86" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" tvg-name="BBC EARTH HD" group-title="Belgesel",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -996,14 +996,14 @@ https://tv.prectv53.lol/live/tarihtv.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/history.m3u8
 #EXTINF:-1 tvg-name="Viasat History"  tvg-language="Turkish" tvg-country="TR" tvg-id="Viasat History" #EXTINF:-1 tvg-id="86" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="Belgesel",Viasat History
-https://ottcdn.kablowebtv.net/live_turksat_sub3/viasathistory_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/viasathistory_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="30" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY [REC]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/viasathistory.m3u8
 #EXTINF:-1 tvg-name="Viasat Explore"  tvg-language="Turkish" tvg-country="TR" tvg-id="Viasat Explore" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d39dd182-c195-4025-976d-10af0b08335e.png" group-title="Belgesel",Viasat Explore
-https://ottcdn.kablowebtv.net/live_turksat_sub3/viasatexplore_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/viasatexplore_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="30" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY [REC]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -1017,21 +1017,21 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-name="Love Nature"  tvg-language="Turkish" tvg-country="TR" tvg-id="Love Nature" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f297ad42-3a86-42b7-90fd-ba2339a7a6d5.png" group-title="Belgesel",Love Nature 
-https://ottcdn.kablowebtv.net/live_turksat_sub3/lovenaturehd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/lovenaturehd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="32" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/c34095b97dc3f94306666eec346defb8.png" tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/lovenature.m3u8
 #EXTINF:-1 tvg-name="Docu Screen"  tvg-language="Turkish" tvg-country="TR" tvg-id="Docu Screen" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7194b74e-4b67-4ec6-83ef-09af3669a515.png" group-title="Belgesel",Docu Screen  
-https://ottcdn.kablowebtv.net/live_turksat_sub3/docuscreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/docuscreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="84" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png" tvg-name="Docubox" group-title="Belgesel",Docubox
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/docubox.m3u8
 #EXTINF:-1 tvg-name="Cgtn Documentary"  tvg-language="Turkish" tvg-country="TR" tvg-id="Cgtn Documentary" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/08bd982f-08e2-4e05-8f80-892a74c4d143.png" group-title="Belgesel",Cgtn Documentary 
-https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtndocu_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtndocu_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 
 #EXTINF:-1 tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TRT" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png" group-title="Belgesel",TRT Belgesel
@@ -1071,16 +1071,16 @@ https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCIHMK8qtjB_GNuXmeex6i8g.
 
 
 #EXTINF:-1 tvg-name="Trt Çocuk" tvg-id="Trt Çocuk"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="Çocuk",Trt Çocuk
-https://ottcdn.kablowebtv.net/live_turksat_sub3/trtcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trtcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-id="Minika Çocuk"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/12a9b581-f79c-41ba-b1e4-2f13f0087776.png" group-title="Çocuk",Minika Çocuk
-https://ottcdn.kablowebtv.net/live_turksat_sub3/minikacocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/minikacocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-chno="null" tvg-name="MİNİKA ÇOCUK" tvg-logo="https://logo.iptveditor.com/minikacocuk.png" group-title="Çocuk",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
 #EXTINF:-1 tvg-name="Minika Go" tvg-id="Minika Go"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7dfb3c14-3837-4c82-9c30-88edefebe4bd.png" group-title="Çocuk",Minika Go
-https://ottcdn.kablowebtv.net/live_turksat_sub3/minikago_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/minikago_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-chno="null" tvg-name="MİNİKA GO" tvg-logo="https://logo.iptveditor.com/minikago.png" group-title="Çocuk",MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
@@ -1089,52 +1089,52 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cartoon-network
 
 #EXTINF:-1 tvg-name="Trt Diyanet Çocuk" tvg-id="Trt Diyanet Çocuk"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7e733bf8-6c0e-4d6e-b18a-5864e571894b.png" group-title="Çocuk",Trt Diyanet Çocuk
-https://ottcdn.kablowebtv.net/live_turksat_sub3/trtdiyanetcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trtdiyanetcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Spacetoon" tvg-id="Spacetoon" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1e92ccd2-d2f4-48e5-a886-164389511271.png" group-title="Çocuk",Spacetoon
-https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Azoomee" tvg-id="Azoomee"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1cc6ebf5-4e01-407d-8a88-94dcdf2d5ddd.png" group-title="Çocuk",Azoomee
-https://ottcdn.kablowebtv.net/live_turksat_sub3/azoomee_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/azoomee_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Baby Tv" tvg-id="Baby Tv"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2442b7b7-04da-41c1-a7ca-03466853040e.png" group-title="Çocuk",Baby Tv
-https://ottcdn.kablowebtv.net/live_turksat_sub3/babytv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/babytv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Disney Junior" tvg-id="Disney Junior"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/51d3a383-2842-4a4c-b622-20f09b309973.png" group-title="Çocuk",Disney Junior
-https://ottcdn.kablowebtv.net/live_turksat_sub3/disneyjunior_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/disneyjunior_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="33" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/4a33046f4748f1d987b710da68d7b58f.png" tvg-name="Disney JR" group-title="Çocuk",Disney JR
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id="Cartoon Network"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4c47b639-2916-4563-9e40-0f2a7925b2ea.png" group-title="Çocuk",Cartoon Network
-https://ottcdn.kablowebtv.net/live_turksat_sub3/cartoonnetwork_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/cartoonnetwork_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="36" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/1a8262974a202c19d6543b82335e39de.jpg" tvg-name="CARTON NETWORK" group-title="Çocuk",CARTON NETWORK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-name="Da Vinci" tvg-id="Da Vinci"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f2ed966d-693e-40b4-a737-740817d4eb2f.png" group-title="Çocuk",Da Vinci
-https://ottcdn.kablowebtv.net/live_turksat_sub3/davinci_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/davinci_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Duck Tv" tvg-id="Duck Tv"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/d8107e33-52b1-4ba0-a7d4-bb877d5658c4.png" group-title="Çocuk",Duck Tv
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ducktv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ducktv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="English Club" tvg-id="English Club"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/31a93dde-3b2e-4be7-b684-43ee9c2a5442.png" group-title="Çocuk",English Club
-https://ottcdn.kablowebtv.net/live_turksat_sub3/englishclub_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/englishclub_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="34" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/30ba57a0576414dcd86aef719e92edb0.jpg" tvg-name="DA VINCI LEARNING" group-title="Çocuk",DA VINCI LEARNING
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.prectv53.lol/live/davinci.m3u8
 #EXTINF:-1 tvg-name="LangLab" tvg-id="LangLab"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/97f5f9c6-70e1-4326-a046-43d6fdd0d81c.png" group-title="Çocuk",LangLab
-https://ottcdn.kablowebtv.net/live_turksat_sub3/langlab_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/langlab_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="LingoToons" tvg-id="LingoToons"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a29ccf28-73b8-48ef-a055-ddb1820c9d57.png" group-title="Çocuk",LingoToons
-https://ottcdn.kablowebtv.net/live_turksat_sub3/lingotoons_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/lingotoons_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="TinyTeen" tvg-id="TinyTeen"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1b0a8967-61ef-4066-a422-2e4eccd18ec5.png" group-title="Çocuk",TinyTeen
-https://ottcdn.kablowebtv.net/live_turksat_sub3/tinyteen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/tinyteen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Çocuk",KUKULİ TV
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=JOSt81XhhG4.m3u8
@@ -1144,7 +1144,7 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=5Whk9MVTpI4.m3u8
 
 
 #EXTINF:-1 tvg-name="Trt Eba TV" tvg-id="Trt Eba TV"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/47fcca43-c2ac-4ab8-ae92-2b007655be9f.png" group-title="Çocuk",Trt Eba TV
-https://ottcdn.kablowebtv.net/live_turksat_sub3/trteba_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trteba_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-id="35" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/4a6d8c2049dd4c014cd443a9cd411f3b.png" tvg-name="Nickelodeon HD" group-title="Çocuk",Nickelodeon HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -1217,16 +1217,16 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u
 https://sinetech-nettv-1.hf.space/proxy/m3u?url=https://vavoo.to/play/3583230858/index.m3u8
 
 #EXTINF:-1 tvg-name="Kitchen TV" tvg-id="Kitchen TV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png" group-title="Yaşam & Eğlence",Kitchen TV
-https://ottcdn.kablowebtv.net/live_turksat_sub3/kitchentv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/kitchentv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Myzen Tv" tvg-id="Myzen Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d8dfa223-6fd9-4780-9b5a-3e3fe87454ad.png" group-title="Yaşam & Eğlence",Myzen Tv
-https://ottcdn.kablowebtv.net/live_turksat_sub3/myzen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/myzen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NDkgUE0maGFzaF92YWx1ZT1jQU5HRVlhOUhwTnN6L0J1UE5ucnFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Mezzo" tvg-id="Mezzo" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ec93858b-ea91-4e9d-b510-bc3187e5ade9.png" group-title="Yaşam & Eğlence",Mezzo
-https://ottcdn.kablowebtv.net/live_turksat_sub3/mezzohd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/mezzohd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="Classical Harmony" tvg-id="Classical Harmony" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/d8abc330-f38a-4a81-b555-c5fef692f63e.png" group-title="Yaşam & Eğlence",Classical Harmony
-https://ottcdn.kablowebtv.net/live_turksat_sub3/classical_harmony_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDI6MDk6MTkgUE0maGFzaF92YWx1ZT1XNnlrNktXdkJ4VGZRU1p5YVI4OUdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://ottcdn.kablowebtv.net/live_turksat_sub3/classical_harmony_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDQ6MTM6NTAgUE0maGFzaF92YWx1ZT1VSUlHZC9NVlNjUXZiNXhSYWsvWUN3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 
 #EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_BEİNGURME" tvg-logo="https://gurmemagazin.net/storage/app/public/genel/gurmetv1.png" group-title="Yaşam & Eğlence",GURME TV
 https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
