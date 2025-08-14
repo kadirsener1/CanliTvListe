@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-id="130" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" tvg-name="A Spor HD" group-title="Spor",A Spor HD [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/aspor.m3u8
+https://tv.prectv53.lol/live/aspor.m3u8
 #EXTINF:-1 tvg-id="121" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/80d8999029533191ed8383fb12ccf042.jpg" tvg-name="EKOL SPORT" group-title="Spor",EKOL SPORT [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/viasatexplore.m3u8
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" tvg-name="Euro Sport 1" group-title="Spor",Euro Sport 1 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/euro1.m3u8
+https://tv.prectv53.lol/live/euro1.m3u8
 #EXTINF:-1 tvg-id="135" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/8802d4e354a9ca77d6aa3bbd8362e3e8.png" tvg-name="Euro Sport 2" group-title="Spor",Euro Sport 2 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/euro2.m3u8
+https://tv.prectv53.lol/live/euro2.m3u8
 #EXTINF:-1 tvg-id="128" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/56c7f2499a5ba8bab88be9cebaedd6be.jpg" tvg-name="FB TV" group-title="Spor",FB TV [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -26,15 +26,15 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:-1 tvg-id="127" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" tvg-name="Nba TV" group-title="Spor",Nba TV [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/yayinnbatv.m3u8
+https://tv.prectv53.lol/live/yayinnbatv.m3u8
 #EXTINF:-1 tvg-id="139" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" tvg-name="Spor Smart 1" group-title="Spor",Spor Smart 1 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/smart1.m3u8
+https://tv.prectv53.lol/live/smart1.m3u8
 #EXTINF:-1 tvg-id="138" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" tvg-name="Spor Smart 2" group-title="Spor",Spor Smart 2 [SD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/smart2.m3u8
+https://tv.prectv53.lol/live/smart2.m3u8
 #EXTINF:-1 tvg-id="122" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg" tvg-name="Sports TV" group-title="Spor",Sports TV [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -42,51 +42,51 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/tabi.m3u8
+https://tv.prectv53.lol/live/tabi.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/tabi1.m3u8
+https://tv.prectv53.lol/live/tabi1.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/tabi2.m3u8
+https://tv.prectv53.lol/live/tabi2.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/tabi3.m3u8
+https://tv.prectv53.lol/live/tabi3.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/tabi4.m3u8
+https://tv.prectv53.lol/live/tabi4.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/tabi5.m3u8
+https://tv.prectv53.lol/live/tabi5.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/tabi6.m3u8
+https://tv.prectv53.lol/live/tabi6.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" tvg-name="Tivibu Spor 1" group-title="Spor",Tivibu Spor 1 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/t1.m3u8
+https://tv.prectv53.lol/live/t1.m3u8
 #EXTINF:-1 tvg-id="133" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg" tvg-name="Tivibu Spor 2" group-title="Spor",Tivibu Spor 2 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/t2.m3u8
+https://tv.prectv53.lol/live/t2.m3u8
 #EXTINF:-1 tvg-id="132" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg" tvg-name="Tivibu Spor 3" group-title="Spor",Tivibu Spor 3 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/t3.m3u8
+https://tv.prectv53.lol/live/t3.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/921670222d56e1af5cde5b3474185425.jpg" tvg-name="TİVİBU SPOR 4" group-title="Spor",TİVİBU SPOR 4
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/t4.m3u8
+https://tv.prectv53.lol/live/t4.m3u8
 #EXTINF:-1 tvg-id="110" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" tvg-name="ATV" group-title="Ulusal",ATV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/atv.m3u8
+https://tv.prectv53.lol/live/atv.m3u8
 #EXTINF:-1 tvg-id="25" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/cad74c9ef922f64138434a3ebb0980be.jpg" tvg-name="BENGÜTÜRK" group-title="Ulusal",BENGÜTÜRK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -146,19 +146,19 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="108" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/48ec74f19b2e7707d89f70ace71eae1c.jpg" tvg-name="TV 8.5" group-title="Ulusal",TV 8.5 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/tv85.m3u8
+https://tv.prectv53.lol/live/tv85.m3u8
 #EXTINF:-1 tvg-id="86" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" tvg-name="BBC EARTH HD" group-title="Belgesel",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/bbc.m3u8
+https://tv.prectv53.lol/live/bbc.m3u8
 #EXTINF:-1 tvg-id="79" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/discovery.m3u8
+https://tv.prectv53.lol/live/discovery.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" tvg-name="DISCOVERY SCIENCE" group-title="Belgesel",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/discs.m3u8
+https://tv.prectv53.lol/live/discs.m3u8
 #EXTINF:-1 tvg-id="81" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/8c8f9b27a338d4b5713098251d9f5284.png" tvg-name="DMAX HD" group-title="Belgesel",DMAX HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -166,15 +166,15 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="84" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png" tvg-name="Docubox" group-title="Belgesel",Docubox
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/docubox.m3u8
+https://tv.prectv53.lol/live/docubox.m3u8
 #EXTINF:-1 tvg-id="87" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" tvg-name="HISTORY CHANNEL" group-title="Belgesel",HISTORY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/history.m3u8
+https://tv.prectv53.lol/live/history.m3u8
 #EXTINF:-1 tvg-id="32" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/c34095b97dc3f94306666eec346defb8.png" tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/lovenature.m3u8
+https://tv.prectv53.lol/live/lovenature.m3u8
 #EXTINF:-1 tvg-id="89" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" tvg-name="NATIONAL GEO HD" group-title="Belgesel",NATIONAL GEO HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -186,7 +186,7 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="85" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" tvg-name="TARİH TV" group-title="Belgesel",TARİH TV [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/tarihtv.m3u8
+https://tv.prectv53.lol/live/tarihtv.m3u8
 #EXTINF:-1 tvg-id="83" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/08cd8548f90ea341ac8bf315ec5ab4f9.jpg" tvg-name="TLC" group-title="Belgesel",TLC
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -198,11 +198,11 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="30" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/viasathistory.m3u8
+https://tv.prectv53.lol/live/viasathistory.m3u8
 #EXTINF:-1 tvg-id="80" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/717339637240b8d0ade5063ae8a18fcd.png" tvg-name="YABAN TV" group-title="Belgesel",YABAN TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/yaban.m3u8
+https://tv.prectv53.lol/live/yaban.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" tvg-name="FASHION TV" group-title="Diğer",FASHION TV [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -242,7 +242,7 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/dc748243e0ce52f5315946c0f26f50fe.jpg" tvg-name="A HABER HD" group-title="Haber",A HABER HD [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/ahaber.m3u8
+https://tv.prectv53.lol/live/ahaber.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/fe34ebd140199c087be663e2c57ceb2f.jpg" tvg-name="BLOOMBERG HT HD" group-title="Haber",BLOOMBERG HT HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -250,7 +250,7 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="99" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/59310b5017a91855a65fd3993f085710.jpg" tvg-name="CNN TURK HD" group-title="Haber",CNN TURK HD [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/cnnturk.m3u8
+https://tv.prectv53.lol/live/cnnturk.m3u8
 #EXTINF:-1 tvg-id="82" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/2adaac7b2a1e39ca67dc34115ce40f3c.jpg" tvg-name="EKOL TV" group-title="Haber",EKOL TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -286,35 +286,35 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="76" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png" tvg-name="BS ACTION 1" group-title="Sinema",BS ACTION 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/bsaction1.m3u8
+https://tv.prectv53.lol/live/bsaction1.m3u8
 #EXTINF:-1 tvg-id="70" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/a5e035e5aad903052fdb35a3a7984518.jpg" tvg-name="BS BOX OFFİCE 1" group-title="Sinema",BS BOX OFFİCE 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/box1.m3u8
+https://tv.prectv53.lol/live/box1.m3u8
 #EXTINF:-1 tvg-id="69" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/aec5f81a9d58714b840be9a285928224.png" tvg-name="BS BOX OFFİCE 2" group-title="Sinema",BS BOX OFFİCE 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/box2.m3u8
+https://tv.prectv53.lol/live/box2.m3u8
 #EXTINF:-1 tvg-id="68" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/7c52499be2693a149616127f02cc633a.png" tvg-name="BS BOX OFFİCE 3" group-title="Sinema",BS BOX OFFİCE 3
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/box3.m3u8
+https://tv.prectv53.lol/live/box3.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/a2f7541d9a7a2947275ba3b3d3b6cb47.png" tvg-name="BS FAMILY" group-title="Sinema",BS FAMILY
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/bsfamily.m3u8
+https://tv.prectv53.lol/live/bsfamily.m3u8
 #EXTINF:-1 tvg-id="71" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/05607925151ae07d26cdf2c93b99e006.png" tvg-name="BS PREMIER" group-title="Sinema",BS PREMIER
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/bspremier1.m3u8
+https://tv.prectv53.lol/live/bspremier1.m3u8
 #EXTINF:-1 tvg-id="72" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/45d92ce49a65dd1e9823a55694fe2a7e.png" tvg-name="BS STARS" group-title="Sinema",BS STARS
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/bsstars.m3u8
+https://tv.prectv53.lol/live/bsstars.m3u8
 #EXTINF:-1 tvg-id="75" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/b2d030cf4ca567bf7c8358b15c8177a9.png" tvg-name="BS TURK" group-title="Sinema",BS TURK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/bsturk.m3u8
+https://tv.prectv53.lol/live/bsturk.m3u8
 #EXTINF:-1 tvg-id="65" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/6c4faa576fe3d2fe9e850efd5c57005d.jpg" tvg-name="FX Kanalı" group-title="Sinema",FX Kanalı
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -322,51 +322,51 @@ https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" tvg-name="Moviesmart Turk" group-title="Sinema",Moviesmart Turk
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/mvturk.m3u8
+https://tv.prectv53.lol/live/mvturk.m3u8
 #EXTINF:-1 tvg-id="61" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" tvg-name="Sinema TV" group-title="Sinema",Sinema TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/sinema.m3u8
+https://tv.prectv53.lol/live/sinema.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png" tvg-name="Sinema TV 1001" group-title="Sinema",Sinema TV 1001
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/sinema1001.m3u8
+https://tv.prectv53.lol/live/sinema1001.m3u8
 #EXTINF:-1 tvg-id="52" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/96603c9e4ba10ae864380f670e210cf0.png" tvg-name="Sinema TV 1002" group-title="Sinema",Sinema TV 1002
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/sinema1002.m3u8
+https://tv.prectv53.lol/live/sinema1002.m3u8
 #EXTINF:-1 tvg-id="60" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" tvg-name="Sinema TV 2" group-title="Sinema",Sinema TV 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/sinema2.m3u8
+https://tv.prectv53.lol/live/sinema2.m3u8
 #EXTINF:-1 tvg-id="55" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" tvg-name="Sinema TV Aile" group-title="Sinema",Sinema TV Aile [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/sinemaaile.m3u8
+https://tv.prectv53.lol/live/sinemaaile.m3u8
 #EXTINF:-1 tvg-id="59" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" tvg-name="Sinema TV Aksiyon" group-title="Sinema",Sinema TV Aksiyon [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/sinemaaksiyon2.m3u8
+https://tv.prectv53.lol/live/sinemaaksiyon2.m3u8
 #EXTINF:-1 tvg-id="57" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" tvg-name="Sinema TV Komedi" group-title="Sinema",Sinema TV Komedi [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/sinemakomedi.m3u8
+https://tv.prectv53.lol/live/sinemakomedi.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" tvg-name="Sinema TV Yerli" group-title="Sinema",Sinema TV Yerli [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/sinemayerli.m3u8
+https://tv.prectv53.lol/live/sinemayerli.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" tvg-name="Sinema TV Yerli" group-title="Sinema",Sinema TV Yerli [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/sinemayerli2.m3u8
+https://tv.prectv53.lol/live/sinemayerli2.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/1a8262974a202c19d6543b82335e39de.jpg" tvg-name="CARTON NETWORK" group-title="Çocuk",CARTON NETWORK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/cartoonnetwork.m3u8
+https://tv.prectv53.lol/live/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="34" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/30ba57a0576414dcd86aef719e92edb0.jpg" tvg-name="DA VINCI LEARNING" group-title="Çocuk",DA VINCI LEARNING
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.prectv54.lol/live/davinci.m3u8
+https://tv.prectv53.lol/live/davinci.m3u8
 #EXTINF:-1 tvg-id="33" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/4a33046f4748f1d987b710da68d7b58f.png" tvg-name="Disney JR" group-title="Çocuk",Disney JR
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
