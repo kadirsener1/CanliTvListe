@@ -62,7 +62,7 @@ https://di33xdynenrrx.cloudfront.net/live/selcukbeinsports2/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-2" tvg-logo="https://i.imgur.com/id4WBnX.png" group-title="Spor",Bein Sports 2|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
-https://di33xdynenrrx.cloudfront.net/live/sbeinsports-2/playlist.m3u8
+https://dte19m0igxz9j.cloudfront.net/live/sbeinsports-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-logo="https://i.imgur.com/id4WBnX.png" tvg-name="Bein Sports 2" group-title="Spor",Bein Sports 2 [REC]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -122,7 +122,7 @@ https://di33xdynenrrx.cloudfront.net/live/selcukbeinsports4/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-4" tvg-logo="https://i.imgur.com/2QsXsk3.png" group-title="Spor",Bein Sports 4|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
-https://di33xdynenrrx.cloudfront.net/live/sbeinsports-4/playlist.m3u8
+https://dte19m0igxz9j.cloudfront.net/live/sbeinsports-4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="146" tvg-logo="https://i.imgur.com/2QsXsk3.png" tvg-name="Bein Sports 4" group-title="Spor",Bein Sports 4 [REC]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -295,7 +295,7 @@ https://di33xdynenrrx.cloudfront.net/live/selcuksmartspor/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="ssmartspor" tvg-logo="https://i.imgur.com/dcUhTEp.png" group-title="Spor",Spor Smart|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
-https://di33xdynenrrx.cloudfront.net/live/ssmartspor/playlist.m3u8
+https://dte19m0igxz9j.cloudfront.net/live/ssmartspor/playlist.m3u8
 
 
 
@@ -542,15 +542,15 @@ https://di33xdynenrrx.cloudfront.net/live/sdazn2/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sufcfightpass" tvg-logo="" group-title="Spor",UFC FİGHT PASS|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
-https://di33xdynenrrx.cloudfront.net/live/sufcfightpass/playlist.m3u8
+https://dte19m0igxz9j.cloudfront.net/live/sufcfightpass/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="smotorsporttv" tvg-logo="" group-title="Spor",MOTOR SPORT TV|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
-https://di33xdynenrrx.cloudfront.net/live/smotorsporttv/playlist.m3u8
+https://dte19m0igxz9j.e58caa2ee913837d.live/live/smotorsporttv/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="smotorvisiontv" tvg-logo="" group-title="Spor",MOTOR VİSİON TV|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
-https://di33xdynenrrx.cloudfront.net/live/smotorvisiontv/playlist.m3u8
+https://dte19m0igxz9j.e58caa2ee913837d.live/live/smotorvisiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SKYSPORTSF1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/375px-Sky_Sports_F1_logo_2020.svg.png" group-title="Spor",Sky Sports f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
