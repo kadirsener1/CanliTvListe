@@ -224,7 +224,7 @@ https://cdn2.freednsserc.xyz/assets/6.js
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sssport" tvg-logo="https://i.imgur.com/0LMUDsc.png" group-title="Spor",S Sport|CF
-#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+#EXTVLCOPT:http-referrer= https://www.sporcafe10.xyz/
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/sssport/playlist.m3u8
 
 
@@ -347,7 +347,7 @@ https://one.zirvestream11.cfd/yayint1.m3u8
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor1/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-1" tvg-logo="https://i.imgur.com/mzqFWqH.png" group-title="Spor",Tivibu Spor 1|CF
-#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+#EXTVLCOPT:http-referrer= https://www.sporcafe10.xyz/
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/stivibuspor-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.imgur.com/mzqFWqH.png" tvg-name="Tivibu Spor 1" group-title="Spor",Tivibu Spor 1 [REC]
@@ -545,7 +545,7 @@ https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/sdazn2/playlist.m3u8
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/sufcfightpass/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="smotorsporttv" tvg-logo="" group-title="Spor",MOTOR SPORT TV|CF
-#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+#EXTVLCOPT:http-referrer= https://www.sporcafe10.xyz/
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/smotorsporttv/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="smotorvisiontv" tvg-logo="" group-title="Spor",MOTOR VİSİON TV|CF
