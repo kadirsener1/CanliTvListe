@@ -295,7 +295,7 @@ https://df16ea90s1u1080.00b0c0cc4ac278f4.live/live/selcuksmartspor/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="ssmartspor" tvg-logo="https://i.imgur.com/dcUhTEp.png" group-title="Spor",Spor Smart|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
-https://df16ea90s1u1080.00b0c0cc4ac278f4.live/live/ssmartspor/playlist.m3u8
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/ssmartspor/playlist.m3u8
 
 
 
@@ -371,7 +371,7 @@ https://df16ea90s1u1080.00b0c0cc4ac278f4.live/live/selcuktivibuspor2/playlist.m3
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-2" tvg-logo="https://i.imgur.com/jde7ngi.png" group-title="Spor",Tivibu Spor 2|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
-https://df16ea90s1u1080.00b0c0cc4ac278f4.live/live/stivibuspor-2/playlist.m3u8
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/stivibuspor-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="133" tvg-logo="https://i.imgur.com/jde7ngi.png" tvg-name="Tivibu Spor 2" group-title="Spor",Tivibu Spor 2 [REC]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -534,7 +534,7 @@ https://one.zirvestream11.cfd/yayinnbatv.m3u8
 https://tv.prectv53.lol/live/yayinnbatv.m3u8
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sdazn1" tvg-logo="" group-title="Spor",DAZN 1|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
-https://df16ea90s1u1080.00b0c0cc4ac278f4.live/live/sdazn1/playlist.m3u8
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/sdazn1/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sdazn2" tvg-logo="" group-title="Spor",DAZN 2|CF
 #EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
