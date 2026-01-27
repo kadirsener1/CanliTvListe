@@ -89,7 +89,7 @@ http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcukbeinsports3/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-3" tvg-logo="https://i.imgur.com/b9niIDX.png" group-title="Spor",Bein Sports 3|CF
-#EXTVLCOPT:http-referrer= https://www.sporcafe9.xyz/
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/sbeinsports-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9niIDX.png" group-title="Spor", Bein Sports 3|JS
@@ -121,7 +121,7 @@ http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcukbeinsports4/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-4" tvg-logo="https://i.imgur.com/2QsXsk3.png" group-title="Spor",Bein Sports 4|CF
-#EXTVLCOPT:http-referrer= https://www.sporcafe9.xyz/
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/sbeinsports-4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="146" tvg-logo="https://i.imgur.com/2QsXsk3.png" tvg-name="Bein Sports 4" group-title="Spor",Bein Sports 4 [REC]
@@ -224,7 +224,7 @@ https://cdn2.freednsserc.xyz/assets/6.js
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcukssport/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sssport" tvg-logo="https://i.imgur.com/0LMUDsc.png" group-title="Spor",S Sport|CF
-#EXTVLCOPT:http-referrer= https://www.sporcafe9.xyz/
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/sssport/playlist.m3u8
 
 
@@ -347,7 +347,7 @@ https://one.zirvestream11.cfd/yayint1.m3u8
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcuktivibuspor1/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-1" tvg-logo="https://i.imgur.com/mzqFWqH.png" group-title="Spor",Tivibu Spor 1|CF
-#EXTVLCOPT:http-referrer= https://www.sporcafe9.xyz/
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/stivibuspor-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.imgur.com/mzqFWqH.png" tvg-name="Tivibu Spor 1" group-title="Spor",Tivibu Spor 1 [REC]
@@ -370,7 +370,7 @@ https://one.zirvestream11.cfd/yayint2.m3u8
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcuktivibuspor2/playlist.m3u8
 
 #EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-2" tvg-logo="https://i.imgur.com/jde7ngi.png" group-title="Spor",Tivibu Spor 2|CF
-#EXTVLCOPT:http-referrer= https://www.sporcafe9.xyz/
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/stivibuspor-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="133" tvg-logo="https://i.imgur.com/jde7ngi.png" tvg-name="Tivibu Spor 2" group-title="Spor",Tivibu Spor 2 [REC]
