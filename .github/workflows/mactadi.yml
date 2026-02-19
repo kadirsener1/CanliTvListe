@@ -1,4 +1,4 @@
-name: Birleşik kontrol
+name: Selcuk kontrol
 concurrency:
   group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
@@ -30,42 +30,7 @@ jobs:
       - name: mactadi.py Çalıştır
         run: python mactadi.py
 
-      - name: TRGoa.py Çalıştır
-        run: python trgoal.py
-        
-      - name: MonoTV.py Çalıştır
-        run: python MonoTV.py
-        
       
-
-      - name: Alive 1
-        run: curl https://kerimmkirac-dproxy.hf.space
-
-      - name: Alive 2
-        run: curl https://kerimmkirac-daddylive.hf.space
-
-      - name: Alive 3
-        run: curl https://kerimmkirac-daddyliveevents.hf.space
-
-      - name: Alive 4
-        run: curl https://kerimmkirac-vavoo.hf.space/
-
-      
-
-      - name: Daddylive
-        run: python daddylive.py
-
-      
-      - name: Daddylive Events
-        run: python daddyliveevents.py
-
-
-
-        
-      
-      
-      
-          
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
         run: |
@@ -77,5 +42,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "🔄 Tüm listeler güncellendi (TRGoals, MonoTV & CanliTV)" -m "📺 Domain kontrolü ve M3U güncellemeleri tamamlandı" -m "🕒 Otomatik işlem - $GITHUB_SHA"
+          git commit -m "🔄 Selcuk güncellendi" -m "📺 Domain kontrolü ve M3U güncellemeleri tamamlandı" -m "🕒 Otomatik işlem - $GITHUB_SHA"
           git push
