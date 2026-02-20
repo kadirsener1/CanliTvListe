@@ -28,7 +28,7 @@ jobs:
           pip install -U setuptools wheel Kekik httpx parsel requests
           
       - name: sentv.py Çalıştır
-        run: python sentv.py
+        run: python trgoalas.py
 
 
 
