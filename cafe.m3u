@@ -1,0 +1,94 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" group-title="Ulusal",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Turk" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/0acb34e5-4b37-434e-b555-c7eb0271ba9d.png" group-title="Ulusal",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Avaz" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Avaz" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4a3026d6-b1be-4373-bb83-447117196e55.png" group-title="Ulusal",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 tvg-name="TRT World" tvg-language="English" tvg-country="USA" tvg-id="TRT_World" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/acd68840-492b-43c5-9635-bbaf32148e2a.png" group-title="Ulusal",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-1" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sbeinsports-1/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-2" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sbeinsports-2/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-3" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sbeinsports-3/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-4" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sbeinsports-4/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-5" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sbeinsports-5/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsportsmax-1" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sbeinsportsmax-1/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsportsmax-2" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sbeinsportsmax-2/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sssport" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sssport/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sssport2" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sssport2/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="ssmartspor" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/ssmartspor/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="ssmartspor2" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/ssmartspor2/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-1" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/stivibuspor-1/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-2" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/stivibuspor-2/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-3" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/stivibuspor-3/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-4" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/stivibuspor-4/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsportshaber" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/sbeinsportshaber/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="saspor" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/saspor/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="seurosport1" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/seurosport1/playlist.m3u8
+
+#EXTINF:-1,tvg-name="TRT Türk" tvg-country="TR" tvg-id="seurosport2" tvg-logo="" group-title="Ulusal",deneme
+#EXTVLCOPT:http-referrer= https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.77b6de8e471484.click/live/seurosport2/playlist.m3u8
