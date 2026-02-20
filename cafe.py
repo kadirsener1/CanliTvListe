@@ -2,7 +2,7 @@ import requests
 import re
 import os
 
-def find_working_sporcafe(start=5, end=15):
+def find_working_sporcafe(start=5, end=150):
     print("🧭 sporcafe domainleri taranıyor...")
     headers = {"User-Agent": "Mozilla/5.0"}
 
@@ -58,7 +58,7 @@ def build_m3u8_links(stream_domain, referer, channel_ids):
             print(f"⚠️ Hata ({cid}): {e}")
     return m3u8_links
 
-def write_m3u_file(m3u8_links, filename="1.m3u", referer=""):
+def write_m3u_file(m3u8_links, filename="cafe.m3u", referer=""):
     if not os.path.exists(filename):
         print("⛔ Dosya bulunamadı. Yeni dosya oluşturulamaz çünkü eski içerik korunmalı.")
         return
