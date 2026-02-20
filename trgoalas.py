@@ -1,41 +1,100 @@
-class TRGOALSManager:
-    def __init__(self):
-        self.httpx = Client(timeout=15, verify=False, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)'})
+import requests
+import re
+import sys
 
-    def get_dynamic_urls(self):
+# Terminal renkleri
+RED = "\033[91m"
+GREEN = "\033[92m"
+YELLOW = "\033[93m"
+RESET = "\033[0m"
+
+# Kanallar listesi
+KANALLAR = [
+    {"dosya": "trgoals/mono.m3u8", "tvg_id": "BeinSports1.tr", "kanal_adi": "Bein Sports 1 HD (VIP)"},
+    {"dosya": "b1/mono.m3u8", "tvg_id": "BeinSports1.tr", "kanal_adi": "Bein Sports 1 HD"},
+    {"dosya": "b2/mono.m3u8", "tvg_id": "BeinSports2.tr", "kanal_adi": "Bein Sports 2 HD"},
+    {"dosya": "b3/mono.m3u8", "tvg_id": "BeinSports3.tr", "kanal_adi": "Bein Sports 3 HD"},
+    {"dosya": "b4/mono.m3u8", "tvg_id": "BeinSports4.tr", "kanal_adi": "Bein Sports 4 HD"},
+    {"dosya": "b5/mono.m3u8", "tvg_id": "BeinSports5.tr", "kanal_adi": "Bein Sports 5 HD"},
+    {"dosya": "bm1/mono.m3u8", "tvg_id": "BeinMax1.tr", "kanal_adi": "Bein Max 1 HD"},
+    {"dosya": "bm2/mono.m3u8", "tvg_id": "BeinMax2.tr", "kanal_adi": "Bein Max 2 HD"},
+    {"dosya": "ss/mono.m3u8", "tvg_id": "SSport1.tr", "kanal_adi": "S Sport 1 HD"},
+    {"dosya": "ss2/mono.m3u8", "tvg_id": "SSport2.tr", "kanal_adi": "S Sport 2 HD"},
+    {"dosya": "ssp2/mono.m3u8", "tvg_id": "SSportPlus.tr", "kanal_adi": "S Sport Plus HD"},
+    {"dosya": "t1/mono.m3u8", "tvg_id": "TivibuSpor1.tr", "kanal_adi": "Tivibu Spor 1 HD"},
+    {"dosya": "t2/mono.m3u8", "tvg_id": "TivibuSpor2.tr", "kanal_adi": "Tivibu Spor 2 HD"},
+    {"dosya": "t3/mono.m3u8", "tvg_id": "TivibuSpor3.tr", "kanal_adi": "Tivibu Spor 3 HD"},
+    {"dosya": "smarts/mono.m3u8", "tvg_id": "SmartSpor1.tr", "kanal_adi": "Smart Spor 1 HD"},
+    {"dosya": "sms2/mono.m3u8", "tvg_id": "SmartSpor2.tr", "kanal_adi": "Smart Spor 2 HD"},
+    {"dosya": "trtspor/mono.m3u8", "tvg_id": "TRTSpor.tr", "kanal_adi": "TRT Spor HD"},
+    {"dosya": "trtspor2/mono.m3u8", "tvg_id": "TRTSporYildiz.tr", "kanal_adi": "TRT Spor Yıldız HD"},
+    {"dosya": "as/mono.m3u8", "tvg_id": "ASpor.tr", "kanal_adi": "A Spor HD"},
+    {"dosya": "atv/mono.m3u8", "tvg_id": "ATV.tr", "kanal_adi": "ATV HD"},
+    {"dosya": "tv8/mono.m3u8", "tvg_id": "TV8.tr", "kanal_adi": "TV8 HD"},
+    {"dosya": "tv85/mono.m3u8", "tvg_id": "TV85.tr", "kanal_adi": "TV8.5 HD"},
+    {"dosya": "nbatv/mono.m3u8", "tvg_id": "NBATV.tr", "kanal_adi": "NBA TV HD"},
+    {"dosya": "ex1/mono.m3u8", "tvg_id": "ExxenSpor1.tr", "kanal_adi": "Exxen Spor 1 HD"},
+    {"dosya": "ex2/mono.m3u8", "tvg_id": "ExxenSpor2.tr", "kanal_adi": "Exxen Spor 2 HD"},
+    {"dosya": "ex3/mono.m3u8", "tvg_id": "ExxenSpor3.tr", "kanal_adi": "Exxen Spor 3 HD"},
+    {"dosya": "ex4/mono.m3u8", "tvg_id": "ExxenSpor4.tr", "kanal_adi": "Exxen Spor 4 HD"},
+    {"dosya": "ex5/mono.m3u8", "tvg_id": "ExxenSpor5.tr", "kanal_adi": "Exxen Spor 5 HD"},
+    {"dosya": "ex6/mono.m3u8", "tvg_id": "ExxenSpor6.tr", "kanal_adi": "Exxen Spor 6 HD"},
+    {"dosya": "ex7/mono.m3u8", "tvg_id": "ExxenSpor7.tr", "kanal_adi": "Exxen Spor 7 HD"},
+    {"dosya": "ex8/mono.m3u8", "tvg_id": "ExxenSpor8.tr", "kanal_adi": "Exxen Spor 8 HD"},
+]
+
+def siteyi_bul():
+    print(f"\n{GREEN}[*] Site aranıyor...{RESET}")
+    for i in range(1540, 1600):
+        url = f"https://trgoals{i}.xyz/"
         try:
-            redirect_content = self.httpx.get('https://eniyiyayinci.github.io/redirect/index.html').text
-            domain_match = re.search(r'URL=(https:\/\/[^"]+)', redirect_content or '')
-            dynamic_domain = (domain_match.group(1) if domain_match else 'https://trgoals896.xyz').rstrip('/') + '/'
-            print(f"TRGOALS: Dinamik domain bulundu -> {dynamic_domain}")
+            r = requests.get(url, timeout=5)
+            if r.status_code == 200:
+                if "channel.html?id=" in r.text:
+                    print(f"{GREEN}[OK] Yayın bulundu: {url}{RESET}")
+                    return url
+                else:
+                    print(f"{YELLOW}[-] {url} yayında ama yayın linki yok.{RESET}")
+        except requests.RequestException:
+            print(f"{RED}[-] {url} erişilemedi.{RESET}")
+    return None
 
-            channel_content = self.httpx.get(f"{dynamic_domain}channel.html").text
-            base_match = re.search(r'const\s+baseurl\s*=\s*["\']([^"\']+)["\']', channel_content or '', re.IGNORECASE)
-            base_url = (base_match.group(1) if base_match else 'https://iss.trgoalshls1.shop').rstrip('/') + '/'
-            print(f"TRGOALS: Base URL bulundu -> {base_url}")
+def find_baseUrl(url):
+    try:
+        r = requests.get(url, timeout=10)
+        r.raise_for_status()
+    except requests.RequestException:
+        return None
+    match = re.search(r'baseUrl\s*[:=]\s*["\']([^"\']+)["\']', r.text)
+    if match:
+        return match.group(1)
+    return None
 
-            return {'dynamic_domain': dynamic_domain, 'base_url': base_url}
-        except Exception as e:
-            print(f"TRGOALS: Dinamik URL'ler alınırken hata: {e}")
-            return {'dynamic_domain': None, 'base_url': None}
+def generate_m3u(base_url, referer, user_agent):
+    lines = ["#EXTM3U"]
+    for idx, k in enumerate(KANALLAR, start=1):
+        name = f"{k['kanal_adi']}"
+        lines.append(f'#EXTINF:-1 tvg-id="{k["tvg_id"]}" tvg-name="{name}",{name}')
+        lines.append(f'#EXTVLCOPT:http-user-agent={user_agent}')
+        lines.append(f'#EXTVLCOPT:http-referrer={referer}')
+        lines.append(base_url + k["dosya"])
+        print(f"  ✔ {idx:02d}. {name}")
+    return "\n".join(lines)
 
-    def calistir(self):
-        urls = self.get_dynamic_urls()
-        if not urls.get('dynamic_domain') or not urls.get('base_url'):
-            return ""
+if __name__ == "__main__":
+    site = siteyi_bul()
+    if not site:
+        print(f"{RED}[HATA] Yayın yapan site bulunamadı.{RESET}")
+        sys.exit(1)
 
-        channels = {1: "BEIN SPORTS 1 (ZIRVE)", 2: "BEIN SPORTS 1 (1)", 3: "BEIN SPORTS 1 (INAT)", 4: "BEIN SPORTS 2", 5: "BEIN SPORTS 3", 6: "BEIN SPORTS 4", 7: "BEIN SPORTS 5", 8: "BEIN SPORTS MAX 1", 9: "BEIN SPORTS MAX 2", 10: "S SPORT PLUS 1", 11: "S SPORT PLUS 2", 13: "TIVIBU SPOR 1", 14: "TIVIBU SPOR 2", 15: "TIVIBU SPOR 3", 16: "SPOR SMART 1", 17: "SPOR SMART 2", 18: "TRT SPOR 1", 19: "TRT SPOR 2", 20: "TRT 1", 21: "A SPOR", 22: "ATV", 23: "TV 8", 24: "TV 8.5", 25: "FORMULA 1", 26: "NBA TV", 27: "EURO SPORT 1", 28: "EURO SPORT 2", 29: "EXXEN SPOR 1", 30: "EXXEN SPOR 2", 31: "EXXEN SPOR 3", 32: "EXXEN SPOR 4", 33: "EXXEN SPOR 5", 34: "EXXEN SPOR 6", 35: "EXXEN SPOR 7", 36: "EXXEN SPOR 8"}
-        stream_paths = {1: "yayinzirve.m3u8", 2: "yayin1.m3u8", 3: "yayininat.m3u8", 4: "yayinb2.m3u8", 5: "yayinb3.m3u8", 6: "yayinb4.m3u8", 7: "yayinb5.m3u8", 8: "yayinbm1.m3u8", 9: "yayinbm2.m3u8", 10: "yayinss.m3u8", 11: "yayinss2.m3u8", 13: "yayint1.m3u8", 14: "yayint2.m3u8", 15: "yayint3.m3u8", 16: "yayinsmarts.m3u8", 17: "yayinsms2.m3u8", 18: "yayintrtspor.m3u8", 19: "yayintrtspor2.m3u8", 20: "yayintrt1.m3u8", 21: "yayinas.m3u8", 22: "yayinatv.m3u8", 23: "yayintv8.m3u8", 24: "yayintv85.m3u8", 25: "yayinf1.m3u8", 26: "yayinnbatv.m3u8", 27: "yayineu1.m3u8", 28: "yayineu2.m3u8", 29: "yayinex1.m3u8", 30: "yayinex2.m3u8", 31: "yayinex3.m3u8", 32: "yayinex4.m3u8", 33: "yayinex5.m3u8", 34: "yayinex6.m3u8", 35: "yayinex7.m3u8", 36: "yayinex8.m3u8"}
+    channel_url = site.rstrip("/") + "/channel.html?id=zirve"
+    base_url = find_baseUrl(channel_url)
+    if not base_url:
+        print(f"{RED}[HATA] Base URL bulunamadı.{RESET}")
+        sys.exit(1)
 
-        m3u = []
-        for channel_id, channel_name in channels.items():
-            if channel_id in stream_paths:
-                stream_url = f"{urls['base_url']}{stream_paths[channel_id]}"
-                m3u.append(f'#EXTINF:-1 group-title="TRGOALS",{channel_name}')
-                m3u.append('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)')
-                m3u.append(f'#EXTVLCOPT:http-referrer={urls["dynamic_domain"]}')
-                m3u.append(stream_url)
+    playlist = generate_m3u(base_url, site, "Mozilla/5.0")
+    with open("1.m3u", "w", encoding="utf-8") as f:
+        f.write(playlist)
 
-        content = "\n".join(m3u)
-        print(f"TRGOALS içerik uzunluğu: {len(content)}")
-        return content
+    print(f"{GREEN}[OK] Playlist oluşturuldu: 1.m3u{RESET}")
