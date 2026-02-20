@@ -1,0 +1,50 @@
+name: Trgoalas
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-m3u:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run script
+      run: python trgoalas.py
+
+    - name: Verify m3u file
+      run: |
+        if [ ! -f "1.m3u" ]; then
+          echo "Error: 1.m3u file not found!"
+          exit 1
+        fi
+        echo "File exists, content:"
+        head -n 5 1.m3u
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add 1.m3u
+        git diff --cached --quiet || git commit -m "Auto-update m3u [skip ci]"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        git push origin HEAD:main
