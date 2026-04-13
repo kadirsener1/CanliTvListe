@@ -483,6 +483,8 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/440774949
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2761385166/index.m3u8
 #EXTINF:-1 tvg-name="4K TR: SİNEMA TV 2 HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="4K_TR_SINEMA_TV_2_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1063)",4K TR: SİNEMA TV 2 HD (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/295060524/index.m3u8
+#EXTINF:-1 tvg-name="4K TR: SİNEMA TV AKSİYON HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="4K_TR_SINEMA_TV_AKSIYON_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1063)",4K TR: SİNEMA TV AKSİYON HD (1)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2246993811/index.m3u8
 #EXTINF:-1 tvg-name="4K TR: SİNEMA TV HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="4K_TR_SINEMA_TV_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1063)",4K TR: SİNEMA TV HD (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2780830033/index.m3u8
 #EXTINF:-1 tvg-name="4K TR: SİNEMA YERLİ 2 HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="4K_TR_SINEMA_YERLI_2_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1063)",4K TR: SİNEMA YERLİ 2 HD (1)
@@ -1691,8 +1693,6 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/153646193
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2719293629/index.m3u8
 #EXTINF:-1 tvg-name="MC EU (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MC_EU_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1063)",MC EU (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3849971860/index.m3u8
-#EXTINF:-1 tvg-name="MEDINE TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MEDINE_TV_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1063)",MEDINE TV (6)
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1762330703/index.m3u8
 #EXTINF:-1 tvg-name="MEDYA HABER (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MEDYA_HABER_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1063)",MEDYA HABER (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2230968262/index.m3u8
 #EXTINF:-1 tvg-name="MELTEM (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MELTEM_7_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1063)",MELTEM (7)
