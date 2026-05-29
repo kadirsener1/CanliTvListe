@@ -645,6 +645,8 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/208458743
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2042734050/index.m3u8
 #EXTINF:-1 tvg-name="ATV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ATV_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1049)",ATV (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/455930425/index.m3u8
+#EXTINF:-1 tvg-name="ATV (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ATV_7_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1049)",ATV (7)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1255594337/index.m3u8
 #EXTINF:-1 tvg-name="ATV ALANYA (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ATV_ALANYA_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1049)",ATV ALANYA (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/930209556/index.m3u8
 #EXTINF:-1 tvg-name="ATV AVRUPA (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ATV_AVRUPA_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1049)",ATV AVRUPA (6)
@@ -835,8 +837,6 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/236989031
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2563486225/index.m3u8
 #EXTINF:-1 tvg-name="BLOOMBERGHT HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BLOOMBERGHT_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1049)",BLOOMBERGHT HD (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/858568307/index.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERGHT RAW (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BLOOMBERGHT_RAW_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1049)",BLOOMBERGHT RAW (1)
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3578150260/index.m3u8
 #EXTINF:-1 tvg-name="BONUS MASAL DIYARI (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BONUS_MASAL_DIYARI_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1049)",BONUS MASAL DIYARI (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1753590086/index.m3u8
 #EXTINF:-1 tvg-name="BOOBA TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BOOBA_TV_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1049)",BOOBA TV (1)
