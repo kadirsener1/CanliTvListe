@@ -353,8 +353,6 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/268929752
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1702937932/index.m3u8
 #EXTINF:-1 tvg-name="24 HABER HD+ SD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="24_HABER_HD_SD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1056)",24 HABER HD+ SD (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3828793616/index.m3u8
-#EXTINF:-1 tvg-name="24 KITCHEN (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="24_KITCHEN_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1056)",24 KITCHEN (6)
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3295699287/index.m3u8
 #EXTINF:-1 tvg-name="24 KITCHEN HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="24_KITCHEN_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1056)",24 KITCHEN HD (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/4285350247/index.m3u8
 #EXTINF:-1 tvg-name="24 RAW (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="24_RAW_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1056)",24 RAW (1)
@@ -615,6 +613,8 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/769414837
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/730257349/index.m3u8
 #EXTINF:-1 tvg-name="ALVIN (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ALVIN_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1056)",ALVIN (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2218004898/index.m3u8
+#EXTINF:-1 tvg-name="ANADOLU DERNEK (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ANADOLU_DERNEK_7_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1056)",ANADOLU DERNEK (7)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1468389014/index.m3u8
 #EXTINF:-1 tvg-name="ANADOLU DERNEK TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ANADOLU_DERNEK_TV_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1056)",ANADOLU DERNEK TV (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/4274827801/index.m3u8
 #EXTINF:-1 tvg-name="ANADOLU TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ANADOLU_TV_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (1056)",ANADOLU TV (6)
