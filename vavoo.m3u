@@ -1041,6 +1041,8 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/232226221
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1224377838/index.m3u8
 #EXTINF:-1 tvg-name="GONCA TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="GONCA_TV_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",GONCA TV (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3241393177/index.m3u8
+#EXTINF:-1 tvg-name="GONCA TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="GONCA_TV_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",GONCA TV (6)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2078775973/index.m3u8
 #EXTINF:-1 tvg-name="GRT TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="GRT_TV_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",GRT TV (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2577534278/index.m3u8
 #EXTINF:-1 tvg-name="GUNEYDOGU TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="GUNEYDOGU_TV_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",GUNEYDOGU TV (6)
@@ -1367,8 +1369,6 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/195374549
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1166494645/index.m3u8
 #EXTINF:-1 tvg-name="NASREDDIN HOCA (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="NASREDDIN_HOCA_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",NASREDDIN HOCA (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2930757080/index.m3u8
-#EXTINF:-1 tvg-name="NAT GEO (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="NAT_GEO_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",NAT GEO (6)
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1845660630/index.m3u8
 #EXTINF:-1 tvg-name="NAT GEO WILD (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="NAT_GEO_WILD_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",NAT GEO WILD (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3320654968/index.m3u8
 #EXTINF:-1 tvg-name="NAT GEO WILD HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="NAT_GEO_WILD_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",NAT GEO WILD HD (1)
@@ -1871,6 +1871,8 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/208162889
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3524690612/index.m3u8
 #EXTINF:-1 tvg-name="TVNET HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="TVNET_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",TVNET HD (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1182480796/index.m3u8
+#EXTINF:-1 tvg-name="TVO TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="TVO_TV_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",TVO TV (1)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2916629658/index.m3u8
 #EXTINF:-1 tvg-name="TYT TURK (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="TYT_TURK_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",TYT TURK (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1840664880/index.m3u8
 #EXTINF:-1 tvg-name="ÜLKE TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ULKE_TV_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",ÜLKE TV (6)
@@ -1945,8 +1947,6 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/158433538
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1240136619/index.m3u8
 #EXTINF:-1 tvg-name="YILDIZ TILBE (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="YILDIZ_TILBE_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",YILDIZ TILBE (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/405072201/index.m3u8
-#EXTINF:-1 tvg-name="YOL TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="YOL_TV_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",YOL TV (1)
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3603580131/index.m3u8
 #EXTINF:-1 tvg-name="YOL TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="YOL_TV_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",YOL TV (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1377055653/index.m3u8
 #EXTINF:-1 tvg-name="YUNUS EMRE (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="YUNUS_EMRE_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (839)",YUNUS EMRE (1)
