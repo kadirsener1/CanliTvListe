@@ -1343,6 +1343,8 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/153646193
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2719293629/index.m3u8
 #EXTINF:-1 tvg-name="MC EU (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MC_EU_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (837)",MC EU (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3849971860/index.m3u8
+#EXTINF:-1 tvg-name="MED MUZIK (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MED_MUZIK_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (837)",MED MUZIK (6)
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1861216008/index.m3u8
 #EXTINF:-1 tvg-name="MEDYA HABER (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MEDYA_HABER_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (837)",MEDYA HABER (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2230968262/index.m3u8
 #EXTINF:-1 tvg-name="MELTEM TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MELTEM_TV_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (837)",MELTEM TV (1)
@@ -1731,8 +1733,6 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/702157954
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3887658051/index.m3u8
 #EXTINF:-1 tvg-name="TJK TV HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="TJK_TV_HD_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (837)",TJK TV HD (1)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3146429334/index.m3u8
-#EXTINF:-1 tvg-name="TLC TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="TLC_TV_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (837)",TLC TV (1)
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3281641786/index.m3u8
 #EXTINF:-1 tvg-name="TMB (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="TMB_6_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (837)",TMB (6)
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2675123009/index.m3u8
 #EXTINF:-1 tvg-name="TOM & JERRY (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="TOM_JERRY_1_" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Genel Kanallar (837)",TOM & JERRY (1)
